@@ -38,8 +38,8 @@ body, .snake {
 
 #instruction-text{
     position:absolute;
-    left: 37%;
-    top:70%;
+    left: 40%;
+    top:65%;
     color:#333;
     width: 300px;
     text-align: center;
